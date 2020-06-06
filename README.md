@@ -8,5 +8,7 @@
 ## 만든 기간
 > 2020.6
 ## COLOR
-> blue,gray
+> ![blue](https://user-images.githubusercontent.com/58199479/83522751-1187c800-a51c-11ea-96db-81b938371415.PNG)
+ BLUE , ![gray](https://user-images.githubusercontent.com/58199479/83522756-13ea2200-a51c-11ea-87f5-ebc73f871bfe.PNG)
+ GRAY
 
